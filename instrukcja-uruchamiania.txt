@@ -1,0 +1,9 @@
+# Instalacja i uruchomienie aplikacji TODO (Python)
+
+1. Zainstaluj Pythona: https://python.org
+2. Pobierz repozytorium lub sklonuj:
+   git clone https://github.com/TWOJA_NAZWA/todo-python-app.git
+3. Przejdź do folderu:
+   cd todo-python-app
+4. Uruchom aplikację:
+   python todo.py

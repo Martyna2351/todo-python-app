@@ -1,0 +1,15 @@
+Jak korzystać z aplikacji TODO:
+
+1. Po uruchomieniu pojawi się menu z opcjami.
+
+2. Możesz:
+
+ - Dodać zadanie — wpisując jego treść
+
+ - Wyświetlić listę zadań — pokazuje numer i status
+
+ - Zaznaczyć zadanie jako wykonane/niewykonane — wybierając jego numer
+
+3. Dane są zapisywane automatycznie w pliku todos.json
+
+4. Aplikację zamykasz wybierając opcję 0
